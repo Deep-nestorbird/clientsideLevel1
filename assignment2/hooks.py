@@ -4,6 +4,8 @@ app_publisher = "Deep Prakash Srivastava"
 app_description = "abcd"
 app_email = "codingadda007@gmail.com"
 app_license = "mit"
+
+doctype_list_js =  {"Customer" : "public/js/customer.js"}
 # required_apps = []
 
 # Includes in <head>
